@@ -17,3 +17,7 @@ your license: you may change the code if you would like (not much reasons to its
 dont reupload without giving credits
 
 its not for commercial use :D
+
+put this in your server.cfg:
+
+"start cuffself"
