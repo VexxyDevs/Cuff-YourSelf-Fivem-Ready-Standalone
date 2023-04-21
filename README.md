@@ -21,3 +21,5 @@ its not for commercial use :D
 put this in your server.cfg:
 
 "start cuffself"
+
+join the discord if you need support :D. https://discord.gg/Je4MYPYwk8
